@@ -1,0 +1,19 @@
+{
+  "angularCompilerOptions": {
+    "annotationsAs": "static fields"
+  },
+  "compilerOptions": {
+    "target": "es2015",
+    "declaration": true,
+    "module": "es2015",
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": false,
+    "sourceMap": true,
+    "strict": true,
+    "outDir": "./dist",
+    "types": []
+  },
+  "files": ["main.ts"],
+  "compileOnSave": false
+}
